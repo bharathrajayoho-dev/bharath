@@ -19,6 +19,7 @@ export const COLORS = {
   success: "#16A34A",
   danger: "#DC2626",
   warning: "#FACC15",
+  background: "#f4f4f4",
 };
 
 
